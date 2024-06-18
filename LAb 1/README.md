@@ -14,9 +14,3 @@ README.md - This document identifes and describes all the files and the author.
 ## About me 
 
 Name: Dev Chodavadiya
-
-Email: dchodava@ucsc.edu
-
-CruzID: dchodava
-
-Student ID: 1959374
