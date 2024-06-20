@@ -9,5 +9,3 @@ Files Included:
 
 Author:
   Name: Dev Chodavadiya
-  CruzID: 1959374
-  email: dchodava@ucsc.edu
