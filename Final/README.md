@@ -16,5 +16,3 @@ Mininet.
 - README: README file
 Author:
 Name: Dev Chodavadiya
-CruzID: 1959374
-email: dchodava@ucsc.edu
